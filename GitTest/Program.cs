@@ -8,6 +8,10 @@ namespace GitTest
 {
     class Program
     {
+        /// <summary>
+        /// Dodat komentar
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
