@@ -1,0 +1,1 @@
+c:\users\losmi\documents\visual studio 2015\Projects\GitTest\GitTest\bin\Debug\GitTest.exe.config
